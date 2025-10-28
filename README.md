@@ -25,7 +25,7 @@ To install:
 i. Clone the following git repo:
 
 ```
-https://github.com/AAdewunmi/Music-Player-App.git
+https://github.com/Vinit-Jaat/Music_player.git
 
 ```
 ii. Open project folder
@@ -48,17 +48,3 @@ i. Run index.html file in an IDE
 
 <img width="481" alt="Screenshot 2024-05-03 at 13 31 39" src="https://github.com/AAdewunmi/Book-Store-ECommerce-Application/assets/15172744/53a696ab-7bb5-40d2-ac98-aada55ef3aa2">
 
-
-## 6. Adapted from: 
-
-UDEMY Course Name: 
-
-Build 18 Real World JavaScript Development Projects Bootcamp
-
-Section 5: Create Custom Music Player in JavaScript 
-
-Created by: Pianalytix
-
-Last updated: 04/2024
-
-URL: https://www.udemy.com/course/build-real-world-javascript-development-projects/
